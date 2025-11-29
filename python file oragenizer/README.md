@@ -24,29 +24,14 @@ This saves time and keeps your system clean and easy to navigate.
 
 ### **2. Open Terminal / Command Prompt**
 
-### **3. Navigate to the folder where your script is saved**
 
-Example:
 
-```
-cd "C:\Users\Nayan Gajjar\Desktop\python file oragenizer"
-```
 
 ### **4. Run the script**
 
 ```
 python organizer.py
-```
 
-### **5. When prompted, paste the folder path you want to organize**
-
-Example:
-
-```
-C:\Users\Nayan Gajjar\Desktop\test folder
-```
-
----
 
 ## 📁 Supported Categories
 
@@ -97,4 +82,5 @@ file-organizer-project/
 │     └── photo.jpg
 └── Programs/
       └── installer.exe
+
 
